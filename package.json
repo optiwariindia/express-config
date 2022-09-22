@@ -1,0 +1,13 @@
+{
+  "name": "express-config",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "Manage basic configuration of the project after making it live.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Om Prakash Tiwari <optiwari.india@gmail.com>",
+  "license": "ISC"
+}
